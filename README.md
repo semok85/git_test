@@ -1,2 +1,2 @@
 # git_test
-Test connect to git local to github
+Test connect from git local to github
